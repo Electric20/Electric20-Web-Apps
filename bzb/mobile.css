@@ -1,0 +1,33 @@
+html {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	font-family: helvetica, arial, sans-serif;
+	margin: 0px;
+        padding: 0px;
+}
+
+.container, .innercontainer {
+	padding: 2%;
+	margin: 0px;
+}
+
+.container {
+	background-color: #FFA54F;
+	border-radius: 30px;
+        -moz-border-radius: 30px;
+	color: white;
+}
+
+.innercontainer {
+	background-color: white;
+        border-radius: 30px;
+        -moz-border-radius: 30px;
+        color: black;
+}
+
+p, h1, h2 {
+	text-align: center;
+}

@@ -1,0 +1,86 @@
+
+body{
+	text-align: center;
+}
+
+form#login{
+	padding-bottom:50px;
+	border-top:solid 1px #fff;
+	border-left:solid 1px #ccc;
+	background:#fff;padding-bottom:0px; /* Shadow image*/
+	width:520px;	
+
+background: transparent url(../img/login/shadow.gif) no-repeat bottom right;
+	
+padding:4px 9px 9px 4px;
+
+
+
+}
+
+
+form#login fieldset{
+	margin-left:2px;
+	margin-bottom:7px;
+}
+
+form#login div#extra h4{
+	font-size:100%;
+	line-height:135%;
+}
+
+form#login div#branding{
+	width:500px;
+	padding:10px;
+}
+
+form#login div#extra input.rdo{
+	padding:0;
+	margin:0;
+	border:0;
+	width:25px;
+	float:left;
+	vertical-align:middle;
+	display:inline-block;
+	height:25px;
+}
+
+form#login div#extra label{
+	border:0;
+	width:25px;
+	float:left;
+	vertical-align:middle;
+	display:inline-block;
+	height:25px;
+	padding:2px 0 0 0;
+	margin:0;
+}
+
+form#login div#extra p.description{
+	margin:-10px 0 0 0;
+	padding:3px 25px;
+	font-style:italic;
+	font-weight:200;
+	color:#666;
+	font-size:75%;
+	clear:both;width:95%;
+}
+
+form#login div#extra {
+	margin-top:10px;
+	border-top:dashed 2px #ddd;
+	clear:both;width:90%;
+}
+
+form#login input.btn{
+	border:solid 3px #fff;
+}
+
+form#login input.btn{
+	border:0;
+}
+
+form#login div#extra fieldset{
+	width:450px;
+}
+form#login{padding:0px 6px 50px 0px;}

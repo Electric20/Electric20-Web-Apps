@@ -1,0 +1,46 @@
+body {
+	font-family: helvetica, arial;
+	font-size: 8pt;
+}
+
+h1 {
+	padding: 0px;
+	margin: 0px 0px 10px 0px;
+}
+
+a, a:visited, a:hover {
+	color: white;
+	text-decoration: none;
+	border-bottom: 1px dotted white;
+}
+
+.container {
+	color: white;
+	background-color: #66cc66;
+	padding: 20px;
+}
+
+.container, .innercontainer, .floater, .innerfloater {
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+}
+
+
+.innercontainer, .floater {
+	background-color: #fff;
+}
+
+.innerfloater {
+	background-color: #66cc66;
+	margin: 10px;
+}
+
+.floater, .innerfloater {
+	float: right;
+	padding: 10px;
+}
+
+.floater {
+	color: #66cc66;
+	font-size: 20pt;
+}

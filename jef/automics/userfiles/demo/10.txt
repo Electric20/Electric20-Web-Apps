@@ -1,0 +1,2 @@
+source_type,nameOnServer,IMEI,title,internalName,group,version,originatorIMEI,timestamp 
+u,10,354957031481149,1315319910430,1315319927420,demo,1,354957031481149,1315319927766

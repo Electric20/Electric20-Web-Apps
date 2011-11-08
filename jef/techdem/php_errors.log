@@ -1,0 +1,2 @@
+[24-Aug-2011 12:47:03] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /var/www/html/jef/techdem/post_tweet.php on line 29
+[24-Aug-2011 12:48:04] PHP Notice:  Undefined index: key in /var/www/html/jef/techdem/post_tweet.php on line 18

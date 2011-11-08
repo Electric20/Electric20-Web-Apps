@@ -1,0 +1,4 @@
+[09-Sep-2011 13:27:28] PHP Parse error:  syntax error, unexpected T_PRINT in /var/www/html/pem/fixCal.php on line 24
+[09-Sep-2011 13:27:42] PHP Parse error:  syntax error, unexpected T_PRINT in /var/www/html/pem/fixCal.php on line 24
+[09-Sep-2011 13:30:01] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /var/www/html/pem/test.php on line 2
+[09-Sep-2011 13:31:31] PHP Parse error:  syntax error, unexpected T_PRINT in /var/www/html/pem/fixCal.php on line 24

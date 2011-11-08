@@ -1,0 +1,104 @@
+<html>
+	<center>
+		<head>
+			<script src="js/jquery-1.5.2.min.js" type="text/javascript"></script>
+			<meta http-equiv="content-type" content="text/html; charset=UTF-8">                                                           
+				    
+			<title> Personal Energy Monitor </title>
+			<link href="../bzb/style.css" rel="stylesheet" type="text/css" />
+			<script type="text/javascript">
+				
+				function initPage()
+				{
+					sessionStorage.clear('email');
+					sessionStorage.clear('uid');
+				}
+				
+				function registerUser(form)
+				{
+					$.getJSON('register.php?email='+form.email.value+'&userPass=' + form.userPass.value, function(data)
+					{
+						if(data.status == 1)
+						{
+							alert("Registration Success");
+						}
+						if(data.status == 0)
+						{
+							alert("Registration Fail - User already exists");
+						}
+					});
+				}
+				
+				function loginUser(form)
+				{
+					$.getJSON('login.php?email='+form.email.value+'&userPass=' + form.userPass.value, function(data)
+					{
+						if(data.status == 1)
+						{
+							sessionStorage.setItem('email', data['email']);
+							sessionStorage.setItem('uid', data['uid']);
+							window.location.href = 'locationTrail.html';
+						}
+						if(data.status == 0)
+						{
+							alert("Login Failed");
+						}
+					});
+				}
+				function resize()
+				{
+					
+						$('#login').css(
+							"padding-top", ($('#help').height() - $('#login').height()) / 2);
+						
+				}
+			</script>
+			
+			
+			
+		</head>
+	</center>
+	<body onload="resize()">
+		<div class="container" style="overflow: hidden; align: center;">
+			<div class="innertext_hor" id="login">
+				<h1 style="text-align: center;">Welcome to personal energy monitor</h1>
+					<div style="text-align: center;">
+					
+					<form name = "input">
+					
+								User Name: 
+								<input type="text" name="email"><br />
+								Password:   
+								<input type="password" name="userPass">
+								<br>
+									<input type="button" value="Log In" name="Submit" onclick= "loginUser(this.form)">
+						
+							
+									<input type="button" value="Register" name="Submit" onclick= "registerUser(this.form)">
+				
+					</form>
+					</div>
+			</div>
+			
+			<div class="innercontainer_hor" style="padding: 20px 0px;" id="help">
+				<img style="padding: 20px; float: right;" src="footprint.GIF" />
+				<div style="padding: 20px;">
+					<h2>What is it?</h2>
+					<p style="color: black;">
+						Here lays information on what personal energy monitoring is
+					</p>
+					<h3>How do I join in?</h3>
+					<p style="color: black;">
+						Here are details on how to download the personal energy monitoring application from the android market along with details on how to register for the service and start making use of it.
+					</p>
+					<h3>Questions</h3>
+					<p style="color: black;">
+						This is where people are told what they can do with any questions they have.
+					</p>
+				</span>
+				</div>
+			</div>
+
+	</body>
+
+<html>

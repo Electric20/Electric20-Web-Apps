@@ -1,0 +1,39 @@
+.title 
+{
+	font-size: 60pt;
+	font-weight: bold;
+	letter-spacing: -3pt;
+}
+
+h1 
+{
+	font-size: 16pt;
+	letter-spacing: -1pt;
+	margin: 0px !important;
+	padding: 0px important;
+	text-align: center;
+}
+
+h2 
+{
+	font-size: 12pt;
+	letter-spacing: -1pt;
+	margin: 10px 0px 5px 0px !important;
+	padding: 0px important;
+}
+
+p 
+{
+	font-size : 12pt;
+	text-align: justify;
+}
+
+table
+{
+	
+}
+
+td
+{
+	padding: 10px;
+}

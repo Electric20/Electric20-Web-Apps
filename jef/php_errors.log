@@ -1,0 +1,131 @@
+[02-Sep-2011 10:58:50] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Europe/London' for 'BST/1.0/DST' instead in /var/www/html/jef/test.php on line 6
+[02-Sep-2011 10:58:50] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Europe/London' for 'BST/1.0/DST' instead in /var/www/html/jef/test.php on line 8
+[02-Sep-2011 10:58:51] PHP Notice:  Undefined offset: 1 in /var/www/html/dataStore/query.php on line 297
+[02-Sep-2011 10:58:51] PHP Notice:  Undefined offset: 1 in /var/www/html/dataStore/query.php on line 297
+[02-Sep-2011 10:58:51] PHP Notice:  Undefined offset: 1 in /var/www/html/dataStore/query.php on line 297
+[02-Sep-2011 10:58:52] PHP Notice:  Undefined offset: 1 in /var/www/html/dataStore/query.php on line 339
+[02-Sep-2011 10:58:52] PHP Notice:  Undefined offset: 1 in /var/www/html/dataStore/query.php on line 339
+[02-Sep-2011 10:58:52] PHP Notice:  Undefined offset: 1 in /var/www/html/dataStore/query.php on line 339
+[02-Sep-2011 10:58:53] PHP Notice:  Undefined offset: 1 in /var/www/html/dataStore/query.php on line 380
+[02-Sep-2011 10:58:53] PHP Notice:  Undefined offset: 1 in /var/www/html/dataStore/query.php on line 380
+[02-Sep-2011 10:58:53] PHP Notice:  Undefined offset: 1 in /var/www/html/dataStore/query.php on line 380
+[02-Sep-2011 10:58:55] PHP Notice:  Trying to get property of non-object in /var/www/html/jef/test.php on line 33
+[02-Sep-2011 10:58:55] PHP Notice:  Trying to get property of non-object in /var/www/html/jef/test.php on line 34
+[02-Sep-2011 10:58:55] PHP Notice:  Trying to get property of non-object in /var/www/html/jef/test.php on line 35
+[02-Sep-2011 10:58:55] PHP Notice:  Trying to get property of non-object in /var/www/html/jef/test.php on line 49
+[02-Sep-2011 10:58:55] PHP Notice:  Trying to get property of non-object in /var/www/html/jef/test.php on line 50
+[02-Sep-2011 10:58:55] PHP Notice:  Trying to get property of non-object in /var/www/html/jef/test.php on line 33
+[02-Sep-2011 10:58:55] PHP Notice:  Trying to get property of non-object in /var/www/html/jef/test.php on line 34
+[02-Sep-2011 10:58:55] PHP Notice:  Trying to get property of non-object in /var/www/html/jef/test.php on line 35
+[02-Sep-2011 10:58:55] PHP Notice:  Trying to get property of non-object in /var/www/html/jef/test.php on line 49
+[02-Sep-2011 10:58:55] PHP Notice:  Trying to get property of non-object in /var/www/html/jef/test.php on line 50
+[11-Sep-2011 14:03:37] PHP Notice:  Use of undefined constant c - assumed 'c' in /var/www/html/jef/weekly_tweet.php on line 6
+[11-Sep-2011 14:03:37] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Europe/London' for 'BST/1.0/DST' instead in /var/www/html/jef/weekly_tweet.php on line 6
+[11-Sep-2011 14:03:37] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Europe/London' for 'BST/1.0/DST' instead in /var/www/html/jef/weekly_tweet.php on line 8
+[11-Sep-2011 14:03:38] PHP Notice:  Undefined offset: 1 in /var/www/html/dataStore/query.php on line 206
+[11-Sep-2011 14:03:38] PHP Notice:  Undefined offset: 1 in /var/www/html/dataStore/query.php on line 206
+[11-Sep-2011 14:03:38] PHP Notice:  Undefined offset: 1 in /var/www/html/dataStore/query.php on line 206
+[11-Sep-2011 14:03:39] PHP Notice:  Undefined offset: 1 in /var/www/html/dataStore/query.php on line 248
+[11-Sep-2011 14:03:40] PHP Notice:  Undefined offset: 1 in /var/www/html/dataStore/query.php on line 248
+[11-Sep-2011 14:03:40] PHP Notice:  Undefined offset: 1 in /var/www/html/dataStore/query.php on line 248
+[11-Sep-2011 14:03:40] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:03:40] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:03:40] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:03:43] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:03:43] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:03:43] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:03:45] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:03:45] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:03:45] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:03:50] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:03:50] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:03:50] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:03:52] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:03:52] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:03:52] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:03:54] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:03:54] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:03:54] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:03:56] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:03:56] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:03:56] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:04:00] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:04:00] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:04:00] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:04:02] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:04:02] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:04:02] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:04:04] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:04:04] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:04:04] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:04:07] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:04:07] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:04:07] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:04:08] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:04:08] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:04:08] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:04:10] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:04:10] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:04:10] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:04:13] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:04:13] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:04:13] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:04:15] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:04:15] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:04:15] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:04:17] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:04:17] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:04:17] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:04:19] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:04:19] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:04:19] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:04:21] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:04:21] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:04:21] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:04:23] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:04:23] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:04:23] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:04:23] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:04:23] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:04:23] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:04:25] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:04:25] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:04:25] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:04:29] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:04:29] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:04:29] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:04:31] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:04:31] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:04:31] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:04:33] PHP Notice:  Trying to get property of non-object in /var/www/html/jef/weekly_tweet.php on line 51
+[11-Sep-2011 14:04:33] PHP Notice:  Trying to get property of non-object in /var/www/html/jef/weekly_tweet.php on line 52
+[11-Sep-2011 14:04:33] PHP Notice:  Trying to get property of non-object in /var/www/html/jef/weekly_tweet.php on line 51
+[11-Sep-2011 14:04:33] PHP Notice:  Trying to get property of non-object in /var/www/html/jef/weekly_tweet.php on line 52
+[11-Sep-2011 14:04:33] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:04:33] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:04:33] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:04:33] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:04:33] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:04:33] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:04:37] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:04:37] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:04:37] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:04:41] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:04:41] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:04:41] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:04:43] PHP Notice:  Trying to get property of non-object in /var/www/html/jef/weekly_tweet.php on line 35
+[11-Sep-2011 14:04:43] PHP Notice:  Trying to get property of non-object in /var/www/html/jef/weekly_tweet.php on line 36
+[11-Sep-2011 14:04:43] PHP Notice:  Trying to get property of non-object in /var/www/html/jef/weekly_tweet.php on line 37
+[11-Sep-2011 14:04:43] PHP Notice:  Trying to get property of non-object in /var/www/html/jef/weekly_tweet.php on line 51
+[11-Sep-2011 14:04:43] PHP Notice:  Trying to get property of non-object in /var/www/html/jef/weekly_tweet.php on line 52
+[11-Sep-2011 14:04:43] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:04:43] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:04:43] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127
+[11-Sep-2011 14:04:43] PHP Notice:  Trying to get property of non-object in /var/www/html/jef/weekly_tweet.php on line 35
+[11-Sep-2011 14:04:43] PHP Notice:  Trying to get property of non-object in /var/www/html/jef/weekly_tweet.php on line 36
+[11-Sep-2011 14:04:43] PHP Notice:  Trying to get property of non-object in /var/www/html/jef/weekly_tweet.php on line 37
+[11-Sep-2011 14:04:43] PHP Notice:  Trying to get property of non-object in /var/www/html/jef/weekly_tweet.php on line 51
+[11-Sep-2011 14:04:43] PHP Notice:  Trying to get property of non-object in /var/www/html/jef/weekly_tweet.php on line 52
+[11-Sep-2011 14:04:43] PHP Notice:  Undefined variable: hubIdY in /var/www/html/jef/weekly_tweet.php on line 61
+[11-Sep-2011 14:04:43] PHP Notice:  Undefined variable: usageY in /var/www/html/jef/weekly_tweet.php on line 66
+[11-Sep-2011 14:04:43] PHP Warning:  Division by zero in /var/www/html/jef/weekly_tweet.php on line 127

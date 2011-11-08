@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Access Timestamp</key>
+	<string>1301389185580</string>
+	<key>Hostname</key>
+	<string>79.125.20.47</string>
+	<key>Nickname</key>
+	<string>New EC2</string>
+	<key>Port</key>
+	<string>22</string>
+	<key>Private Key File</key>
+	<string>~/.ssh/jzc_energy_ec2_dsa</string>
+	<key>Protocol</key>
+	<string>sftp</string>
+	<key>UUID</key>
+	<string>9d361767-b478-4115-b57f-c3a8ce545828</string>
+	<key>Username</key>
+	<string>jzc</string>
+</dict>
+</plist>

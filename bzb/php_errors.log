@@ -1,0 +1,161 @@
+[14-Aug-2011 19:01:49] PHP Warning:  session_start(): open(/var/lib/php/session/sess_qshpj8v1f487lbkaeglft1u3p7, O_RDWR) failed: Permission denied (13) in /var/www/html/bzb/progress_data.php on line 2
+[14-Aug-2011 19:01:49] PHP Warning:  Unknown: open(/var/lib/php/session/sess_qshpj8v1f487lbkaeglft1u3p7, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[14-Aug-2011 19:01:49] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/lib/php/session) in Unknown on line 0
+[14-Aug-2011 19:03:27] PHP Warning:  session_start(): open(/var/lib/php/session/sess_hd4n6sr61inpo0tpg56b6j4qk4, O_RDWR) failed: Permission denied (13) in /var/www/html/bzb/progress_data.php on line 2
+[14-Aug-2011 19:03:27] PHP Warning:  Unknown: open(/var/lib/php/session/sess_hd4n6sr61inpo0tpg56b6j4qk4, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[14-Aug-2011 19:03:27] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/lib/php/session) in Unknown on line 0
+[14-Aug-2011 19:05:00] PHP Warning:  session_start(): open(/var/lib/php/session/sess_0qhv7rjlfuu1ftta6ompbred63, O_RDWR) failed: Permission denied (13) in /var/www/html/bzb/progress_data.php on line 2
+[14-Aug-2011 19:05:00] PHP Warning:  Unknown: open(/var/lib/php/session/sess_0qhv7rjlfuu1ftta6ompbred63, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[14-Aug-2011 19:05:00] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/lib/php/session) in Unknown on line 0
+[14-Aug-2011 19:07:06] PHP Warning:  session_start(): open(/var/lib/php/session/sess_kcsgcqgauqrmlbk2t8a3ukgme4, O_RDWR) failed: Permission denied (13) in /var/www/html/bzb/progress_data.php on line 2
+[14-Aug-2011 19:07:06] PHP Warning:  Unknown: open(/var/lib/php/session/sess_kcsgcqgauqrmlbk2t8a3ukgme4, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[14-Aug-2011 19:07:06] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/lib/php/session) in Unknown on line 0
+[14-Aug-2011 19:08:00] PHP Warning:  session_start(): open(/var/lib/php/session/sess_98ievisbt91e2jg7626pla7b13, O_RDWR) failed: Permission denied (13) in /var/www/html/bzb/progress_data.php on line 2
+[14-Aug-2011 19:08:00] PHP Warning:  Unknown: open(/var/lib/php/session/sess_98ievisbt91e2jg7626pla7b13, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[14-Aug-2011 19:08:00] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/lib/php/session) in Unknown on line 0
+[14-Aug-2011 19:58:05] PHP Warning:  session_start(): open(/var/lib/php/session/sess_jiugj3n8h7eh7pgbi30faorro6, O_RDWR) failed: Permission denied (13) in /var/www/html/bzb/progress_data.php on line 2
+[14-Aug-2011 19:58:05] PHP Warning:  Unknown: open(/var/lib/php/session/sess_jiugj3n8h7eh7pgbi30faorro6, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[14-Aug-2011 19:58:05] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/lib/php/session) in Unknown on line 0
+[14-Aug-2011 19:59:06] PHP Warning:  session_start(): open(/var/lib/php/session/sess_rppb28rmqcb941du26m1e4cfi2, O_RDWR) failed: Permission denied (13) in /var/www/html/bzb/progress_data.php on line 2
+[14-Aug-2011 19:59:06] PHP Warning:  Unknown: open(/var/lib/php/session/sess_rppb28rmqcb941du26m1e4cfi2, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[14-Aug-2011 19:59:06] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/lib/php/session) in Unknown on line 0
+[14-Aug-2011 20:03:42] PHP Warning:  session_start(): open(/var/lib/php/session/sess_ri6la9ih7fbeod6mcm10p2in03, O_RDWR) failed: Permission denied (13) in /var/www/html/bzb/progress_data.php on line 2
+[14-Aug-2011 20:03:42] PHP Warning:  Unknown: open(/var/lib/php/session/sess_ri6la9ih7fbeod6mcm10p2in03, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[14-Aug-2011 20:03:42] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/lib/php/session) in Unknown on line 0
+[14-Aug-2011 20:05:02] PHP Warning:  session_start(): open(/var/lib/php/session/sess_1rscrij1scka1tf8ga8gf3oia1, O_RDWR) failed: Permission denied (13) in /var/www/html/bzb/progress_data.php on line 2
+[14-Aug-2011 20:05:02] PHP Warning:  Unknown: open(/var/lib/php/session/sess_1rscrij1scka1tf8ga8gf3oia1, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[14-Aug-2011 20:05:02] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/lib/php/session) in Unknown on line 0
+[14-Aug-2011 20:16:17] PHP Warning:  session_start(): open(/var/lib/php/session/sess_4ejo1risdrf6qmfvb0e83ku0l5, O_RDWR) failed: Permission denied (13) in /var/www/html/bzb/progress.php on line 3
+[14-Aug-2011 20:16:17] PHP Notice:  Undefined index: loggedIn in /var/www/html/dataStore/utility.php on line 40
+[14-Aug-2011 20:16:17] PHP Notice:  Undefined index: HTTP_HOST in /var/www/html/dataStore/utility.php on line 40
+[14-Aug-2011 20:16:17] PHP Notice:  Undefined index: REQUEST_URI in /var/www/html/dataStore/utility.php on line 40
+[14-Aug-2011 20:16:17] PHP Notice:  Undefined index: HTTP_USER_AGENT in /var/www/html/dataStore/utility.php on line 40
+[14-Aug-2011 20:16:17] PHP Notice:  Undefined index: loggedIn in /var/www/html/dataStore/utility.php on line 40
+[14-Aug-2011 20:16:17] PHP Notice:  Undefined index: HTTP_HOST in /var/www/html/dataStore/utility.php on line 40
+[14-Aug-2011 20:16:17] PHP Notice:  Undefined index: REQUEST_URI in /var/www/html/dataStore/utility.php on line 40
+[14-Aug-2011 20:16:17] PHP Notice:  Undefined index: HTTP_USER_AGENT in /var/www/html/dataStore/utility.php on line 40
+[14-Aug-2011 20:16:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/dataStore/utility.php:124) in /var/www/html/bzb/progress.php on line 11
+[14-Aug-2011 20:16:17] PHP Notice:  Undefined index: hubId in /var/www/html/bzb/progress.php on line 62
+[14-Aug-2011 20:16:17] PHP Notice:  Undefined index: sensorId in /var/www/html/bzb/progress.php on line 62
+[14-Aug-2011 20:16:17] PHP Notice:  Undefined index: hubId in /var/www/html/bzb/progress.php on line 63
+[14-Aug-2011 20:16:17] PHP Notice:  Undefined index: sensorId in /var/www/html/bzb/progress.php on line 63
+[14-Aug-2011 20:16:17] PHP Warning:  Unknown: open(/var/lib/php/session/sess_4ejo1risdrf6qmfvb0e83ku0l5, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[14-Aug-2011 20:16:17] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/lib/php/session) in Unknown on line 0
+[15-Aug-2011 07:34:19] PHP Warning:  session_start(): open(/var/lib/php/session/sess_uho3734f8020eesnigojrm74u2, O_RDWR) failed: Permission denied (13) in /var/www/html/bzb/progress_data.php on line 2
+[15-Aug-2011 07:34:19] PHP Warning:  Unknown: open(/var/lib/php/session/sess_uho3734f8020eesnigojrm74u2, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[15-Aug-2011 07:34:19] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/lib/php/session) in Unknown on line 0
+[15-Aug-2011 15:12:50] PHP Parse error:  syntax error, unexpected '}' in /var/www/html/bzb/progress_data.php on line 22
+[15-Aug-2011 18:42:07] PHP Warning:  session_start(): open(/var/lib/php/session/sess_vv5si49k38ckmf229opvs7ul72, O_RDWR) failed: Permission denied (13) in /var/www/html/bzb/progress_data.php on line 2
+[15-Aug-2011 18:42:07] PHP Notice:  Undefined index: loggedIn in /var/www/html/bzb/progress_data.php on line 18
+[15-Aug-2011 18:42:07] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /var/www/html/bzb/progress_data.php on line 19
+[15-Aug-2011 18:42:07] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /var/www/html/bzb/progress_data.php on line 23
+[15-Aug-2011 18:42:07] PHP Notice:  Undefined offset: -1 in /var/www/html/bzb/progress_data.php on line 42
+[15-Aug-2011 18:42:07] PHP Warning:  array_reverse() expects parameter 1 to be array, null given in /var/www/html/bzb/progress_data.php on line 49
+[15-Aug-2011 18:42:07] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/bzb/progress_data.php on line 50
+[15-Aug-2011 18:42:07] PHP Warning:  Unknown: open(/var/lib/php/session/sess_vv5si49k38ckmf229opvs7ul72, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[15-Aug-2011 18:42:07] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/lib/php/session) in Unknown on line 0
+[16-Aug-2011 15:10:45] PHP Warning:  session_start(): open(/var/lib/php/session/sess_i51e9poli651iie7c593ltpsd2, O_RDWR) failed: Permission denied (13) in /var/www/html/bzb/mobile_data.php on line 2
+[16-Aug-2011 15:10:45] PHP Warning:  Unknown: open(/var/lib/php/session/sess_i51e9poli651iie7c593ltpsd2, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[16-Aug-2011 15:10:45] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/lib/php/session) in Unknown on line 0
+[24-Aug-2011 09:22:06] PHP Warning:  session_start(): open(/var/lib/php/session/sess_ip9djbmon7tqaql9tjkie0k2c1, O_RDWR) failed: Permission denied (13) in /var/www/html/bzb/overview.php on line 3
+[24-Aug-2011 09:22:06] PHP Notice:  Undefined index: loggedIn in /var/www/html/dataStore/utility.php on line 40
+[24-Aug-2011 09:22:06] PHP Notice:  Undefined index: HTTP_HOST in /var/www/html/dataStore/utility.php on line 40
+[24-Aug-2011 09:22:06] PHP Notice:  Undefined index: REQUEST_URI in /var/www/html/dataStore/utility.php on line 40
+[24-Aug-2011 09:22:06] PHP Notice:  Undefined index: HTTP_USER_AGENT in /var/www/html/dataStore/utility.php on line 40
+[24-Aug-2011 09:22:06] PHP Notice:  Undefined index: loggedIn in /var/www/html/dataStore/utility.php on line 40
+[24-Aug-2011 09:22:06] PHP Notice:  Undefined index: HTTP_HOST in /var/www/html/dataStore/utility.php on line 40
+[24-Aug-2011 09:22:06] PHP Notice:  Undefined index: REQUEST_URI in /var/www/html/dataStore/utility.php on line 40
+[24-Aug-2011 09:22:06] PHP Notice:  Undefined index: HTTP_USER_AGENT in /var/www/html/dataStore/utility.php on line 40
+[24-Aug-2011 09:22:06] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/dataStore/utility.php:124) in /var/www/html/bzb/overview.php on line 11
+[24-Aug-2011 09:22:06] PHP Warning:  Unknown: open(/var/lib/php/session/sess_ip9djbmon7tqaql9tjkie0k2c1, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[24-Aug-2011 09:22:06] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/lib/php/session) in Unknown on line 0
+[24-Aug-2011 09:22:14] PHP Warning:  session_start(): open(/var/lib/php/session/sess_v6cu8smts3dh4rvmsh86bo0de1, O_RDWR) failed: Permission denied (13) in /var/www/html/bzb/overview_data.php on line 3
+[24-Aug-2011 09:22:14] PHP Notice:  Use of undefined constant prev2 - assumed 'prev2' in /var/www/html/bzb/overview_data.php on line 7
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: 2 in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: load in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: count in /var/www/html/dataStore/query.php on line 886
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: 3 in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: load in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: count in /var/www/html/dataStore/query.php on line 886
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined offset: 1 in /var/www/html/dataStore/query.php on line 891
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: 2 in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: load in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: count in /var/www/html/dataStore/query.php on line 886
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: 3 in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: load in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: count in /var/www/html/dataStore/query.php on line 886
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined offset: 1 in /var/www/html/dataStore/query.php on line 891
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: 2 in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: load in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: count in /var/www/html/dataStore/query.php on line 886
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: 3 in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: load in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: count in /var/www/html/dataStore/query.php on line 886
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined offset: 1 in /var/www/html/dataStore/query.php on line 891
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: 1 in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: load in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: count in /var/www/html/dataStore/query.php on line 886
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: 3 in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: load in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: count in /var/www/html/dataStore/query.php on line 886
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: 1 in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: load in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: count in /var/www/html/dataStore/query.php on line 886
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: 1 in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: load in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: count in /var/www/html/dataStore/query.php on line 886
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: 1 in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: load in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: count in /var/www/html/dataStore/query.php on line 886
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: 1 in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: load in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: count in /var/www/html/dataStore/query.php on line 886
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: 1 in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: load in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: count in /var/www/html/dataStore/query.php on line 886
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: 1 in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: load in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: count in /var/www/html/dataStore/query.php on line 886
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: 1 in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: load in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: count in /var/www/html/dataStore/query.php on line 886
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: 1 in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: load in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: count in /var/www/html/dataStore/query.php on line 886
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: 1 in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: load in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: count in /var/www/html/dataStore/query.php on line 886
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: 1 in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: load in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: count in /var/www/html/dataStore/query.php on line 886
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: 1 in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: load in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: count in /var/www/html/dataStore/query.php on line 886
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: 1 in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: load in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: count in /var/www/html/dataStore/query.php on line 886
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: 1 in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: load in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: count in /var/www/html/dataStore/query.php on line 886
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: 1 in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: load in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: count in /var/www/html/dataStore/query.php on line 886
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: 1 in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: load in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: count in /var/www/html/dataStore/query.php on line 886
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: 1 in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: load in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: count in /var/www/html/dataStore/query.php on line 886
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: 1 in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: load in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: count in /var/www/html/dataStore/query.php on line 886
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: 1 in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: load in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: count in /var/www/html/dataStore/query.php on line 886
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: 1 in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: load in /var/www/html/dataStore/query.php on line 885
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined index: count in /var/www/html/dataStore/query.php on line 886
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined offset: 1 in /var/www/html/dataStore/query.php on line 727
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined offset: 1 in /var/www/html/dataStore/query.php on line 727
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined offset: 1 in /var/www/html/dataStore/query.php on line 727
+[24-Aug-2011 09:22:15] PHP Notice:  Undefined offset: 1 in /var/www/html/dataStore/query.php on line 727
